@@ -1,0 +1,7 @@
+#Thu Dec 29 20:59:58 CST 2016
+base.0=E\:\\Android_Studio\\TimelyTextView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b991c8cd4d57ec4fb6e88862b2fa00792f2d961f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android_Studio\\TimelyTextView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0c17efb369f21b5ddf363c11b8d15c7574c4a80\\classes.dex
+base.1=E\:\\Android_Studio\\TimelyTextView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0c17efb369f21b5ddf363c11b8d15c7574c4a80
+file.0=E\:\\Android_Studio\\TimelyTextView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b991c8cd4d57ec4fb6e88862b2fa00792f2d961f\\classes.dex

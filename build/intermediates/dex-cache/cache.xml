@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Administrator\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Android_Studio\TimelyTextView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_f599733ef61a09c8fdcaa231d9304eb51c143884\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\TimelyTextView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9171517ffc300e237aa16c135549ac16a0a360ee">
+        <dex dex="E:\Android_Studio\TimelyTextView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0c17efb369f21b5ddf363c11b8d15c7574c4a80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_Studio\TimelyTextView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57e71aa126992c12da6adb2432297cbe57ec93c5">
+        <dex dex="E:\Android_Studio\TimelyTextView\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b991c8cd4d57ec4fb6e88862b2fa00792f2d961f\classes.dex" />
+    </item>
+
+</items>
